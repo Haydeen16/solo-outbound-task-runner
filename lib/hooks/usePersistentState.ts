@@ -19,3 +19,4 @@ function usePersistentState<T>(key: string, initialValue: T) {
 }
 
 export default usePersistentState;
+export { usePersistentState };
